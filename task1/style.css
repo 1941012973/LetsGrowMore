@@ -1,0 +1,496 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.op {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.lo .nav-link:hover {
+  color: #fed330;
+}
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: "";
+  background: no-repeat center center;
+  background-size: 100% 100%;
+  color: white;
+}
+.navbar-brand {
+  color: white;
+  font-size: 3rem !important;
+}
+.nav-link {
+  font-size: 1.6rem;
+  padding: 1rem 1.5rem !important;
+  transition: 0.5s;
+}
+img {
+  height: 522px;
+  width: auto;
+}
+.carousel-caption {
+  position: absolute;
+  top: 18rem;
+  text-align: left;
+
+  /*  */
+  margin-left: 70px;
+}
+.carousel-item h1 {
+  color: white;
+}
+.carousel-item p {
+  color: white;
+  font-size: 1.5rem;
+  max-width: 60rem;
+}
+.carousel-item .btn {
+  background: rebeccapurple;
+  color: white;
+}
+.carousel-item .btn:hover {
+  background: yellow;
+  color: black;
+}
+.carousel-caption .card {
+  background-color: transparent;
+}
+.ok {
+  padding-left: 118px;
+}
+.op {
+  margin-left: 295px;
+}
+
+#heading {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: bolder;
+}
+.car_umb {
+  margin: auto;
+  margin-top: 56px;
+  border: none;
+}
+.car_umb img {
+  height: 170px;
+  width: auto;
+  opacity: 0.4;
+  /*margin-right:302px;*/
+}
+.car_umb h4 {
+  font-size: 1.6rem;
+  color: #adadad;
+}
+.card {
+  border: none;
+}
+.icon {
+  text-align: center;
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+  background: #82589f;
+  margin: 1rem 0;
+  display: block;
+  margin: auto;
+}
+.icon i {
+  font-size: 2rem;
+  line-height: 6rem;
+  color: #fff;
+}
+.welcomecard .card-title {
+  margin: auto;
+  text-align: center;
+  padding-bottom: 14px;
+  font-size: 1.8rem !important;
+  color: #82589f;
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 1.2rem;
+  color: #b2bec3;
+}
+.welcomecard .btn {
+  margin-left: 70px;
+}
+hr {
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  width: 56%;
+}
+.card-body .btn {
+  background: #fed330;
+  color: black;
+  transition: 0.5s;
+}
+.card-body .btn:hover {
+  background: rebeccapurple;
+
+  color: white;
+  transition: 0.5s;
+}
+.heading {
+  text-align: center;
+}
+#heading1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#heading2 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-weight: bolder;
+}
+#heading3 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #e7e9eb;
+  padding-top: 23px;
+  font-weight: bolder;
+}
+#heading4 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 23px;
+  font-weight: bolder;
+}
+#heading5 {
+  text-align: center;
+  margin-top: 2px;
+  margin-bottom: 50px;
+  padding-top: 23px;
+  color: white;
+  font-weight: bolder;
+}
+#heading6 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+#heading7 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+.project_div {
+  margin: auto;
+  overflow: hidden;
+}
+.proj {
+  margin: auto;
+  background: #e7e9eb;
+}
+.zippyteamimg {
+  width: 223px;
+  height: 223px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+.proj:hover {
+  background: #fed330;
+  transition: 0.5s;
+}
+.proj img {
+  height: 20rem !important;
+  width: auto !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+.pi {
+  height: 100vh;
+}
+.carousel-indicators li {
+  height: 0.6rem;
+  width: 0.6rem;
+  border-radius: 50%;
+}
+.h {
+  font-weight: bolder;
+}
+.col-sm-3 {
+  padding: 0px;
+}
+.pricetable {
+  text-align: center;
+  border-right: 3px solid #adadad;
+}
+.pricetable ul {
+  list-style: none;
+}
+.pricetable h5 {
+  font-size: 1.25rem;
+  margin-left: 18px;
+}
+.pricetable p {
+  font-size: 1.15rem;
+  margin-left: 32px;
+  color: #adadad;
+}
+.pricetable .btn {
+  margin-left: 35px;
+}
+.PT {
+  margin-left: 124px;
+  margin-right: 124px;
+}
+.premium {
+  border: none;
+}
+#LIZ .lz {
+  text-align: center;
+  font-weight: bolder;
+}
+.newspaper .newsbtn:hover {
+  background: #fed330;
+}
+.newspaper .newsbtn {
+  background: rebeccapurple;
+}
+.vdeoprjts {
+  background: rebeccapurple;
+  height: 72vh;
+  margin-right: 5px;
+}
+.zippyteam {
+  margin-left: 155px;
+}
+.zippyteam .card-title {
+  font-weight: bolder;
+}
+.ZT {
+  max-width: 31%;
+}
+.ZT h5 {
+  text-align: center;
+}
+.ZT .card-text {
+  text-align: center;
+}
+.card .social_icons {
+  position: absolute;
+  top: 0;
+  left: 5.2rem;
+  bottom: 0;
+  right: 0;
+  width: 223px;
+  height: 223px;
+  border-radius: 50%;
+  background: rgba(130, 88, 159, 0.8);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  opacity: 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.card .social_icons:hover {
+  opacity: 1.7;
+}
+.social_icons i {
+  color: rgb(22, 18, 18);
+  font-size: 2rem;
+}
+.lifeAtZippy {
+  background: #adadad;
+}
+.newspaper {
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    url(https://hdfreewallpaper.net/wp-content/uploads/2017/12/Christmas-Particles-wallpapers.jpg);
+  height: 20rem;
+  background-size: cover;
+  background-position: center;
+}
+.newsletter_form {
+  margin-left: 591px;
+  margin-top: 80px;
+}
+.blog_card {
+  margin-left: 192px;
+  margin-right: 192px;
+}
+.blog_card img {
+  height: 243px;
+  width: 243px;
+  margin: auto;
+}
+.blog_card .card-title {
+  text-align: center;
+}
+.blog_card .card-text {
+  text-align: center;
+}
+.blog_card .blog_button {
+  padding-left: 123px;
+}
+.blod_card .blog_button .btn {
+  border-radius: 0;
+  background-color: #adadad;
+  border: 0px solid black;
+}
+.blog_card .blog_button .btn:hover {
+  background-color: #fed330;
+}
+.blog_card .fty {
+  color: black;
+  font-size: 15px;
+  display: block;
+  margin-left: 17px;
+}
+.formmmmiii .form_head {
+  font-weight: bolder;
+}
+.zippy_map iframe {
+  border: 0;
+  height: 641px;
+  width: 722px;
+  margin-left: 17px;
+  margin-top: 0px;
+}
+.formmmmiii {
+  background-color: #fed330;
+  max-width: 48.5%;
+  /**/
+  padding-right: 293px;
+}
+
+.formmmmiii form {
+  margin-right: 10px;
+}
+.footer li {
+  list-style: none;
+}
+.footer .footerHeadi {
+  text-align: center;
+  padding-left: 37px;
+  font-weight: bolder;
+}
+.footer li {
+  text-align: center;
+}
+.footer {
+  margin-top: 5px;
+}
+#LIZ img {
+  width: 90rem !important;
+  height: 35rem !important;
+  object-fit: cover;
+}
+#LIZ .image img {
+  height: 10rem !important;
+  width: 10rem !important;
+  object-fit: cover;
+  cursor: pointer;
+}
+@media screen and (min-device-width: 121px) and (max-device-width: 621px) {
+  .d-md-block {
+    display: block !important;
+  }
+  .carousel-item h1 {
+    color: white;
+    font-size: 24px;
+  }
+  .carousel-item p {
+    color: white;
+    font-size: 11px;
+  }
+  .carousel-item .btn {
+    background: rebeccapurple;
+    color: white;
+    font-size: 0.8rem;
+  }
+  .carousel-caption {
+    position: absolute;
+    top: 150px;
+  }
+  .ok {
+    padding-left: 0px;
+  }
+  .op {
+    margin-left: 0px;
+  }
+  .car_umb img {
+    height: 170px;
+    width: auto;
+    opacity: 0.4;
+  }
+
+  .welcomecard {
+    margin: 20px 0px 20px 0px;
+  }
+  .pricetable {
+    width: max-content;
+    border-right: none;
+    border-bottom: 2px solid #adadad;
+  }
+  .PT {
+    margin-left: 57px;
+    margin-right: 57px;
+  }
+  .abc .col-sm {
+    margin-left: 26px;
+  }
+  .abc .card-title {
+    text-align: center;
+  }
+  .zippyteam {
+    margin-left: 59px;
+  }
+  .ZT {
+    max-width: 60%;
+  }
+  .ZT .card {
+    width: 186px;
+  }
+  .card .social_icons {
+    left: 0.2rem;
+  }
+  .newsletter_form {
+    margin-left: 66px;
+    margin-top: 20px;
+  }
+  .blog_card {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .blog_card .blog_button {
+    padding-left: 125px;
+  }
+  .formmmmiii {
+    margin-top: 0px;
+    padding-left: 19px;
+    margin-left: 10px;
+    max-width: 100%;
+  }
+
+  .formmmmiii .btn {
+    display: block;
+    margin: auto;
+  }
+  .form-control {
+    width: 303%;
+  }
+  .zippy_map iframe {
+    border: 0;
+    height: 641px;
+    width: 322px;
+    margin-left: 18px;
+    margin-top: 0px;
+  }
+}
